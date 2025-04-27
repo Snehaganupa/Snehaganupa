@@ -12,4 +12,5 @@ Clone this repository:
 git clone https://github.com/Snehaganupa/Snehaganupa.git
 Open notebooks in Google Colab or Jupyter Notebook.
 Install required packages.
+Upload the dataset phish_legit_site_urls.csv.zip.
 Run all cells to train and evaluate the models.
